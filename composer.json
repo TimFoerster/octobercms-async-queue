@@ -1,0 +1,7 @@
+{
+  "require": {
+    "barryvdh/laravel-async-queue": "0.4.*",
+    "illuminate/contracts" : "5.1.*",
+    "illuminate/support" : "5.1.*"
+  }
+}

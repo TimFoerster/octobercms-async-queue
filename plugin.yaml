@@ -1,0 +1,6 @@
+plugin:
+    name: 'timfoerster.asyncqueue::lang.plugin.name'
+    description: 'timfoerster.asyncqueue::lang.plugin.description'
+    author: 'Tim Förster'
+    icon: oc-icon-database
+    homepage: 'https://github.com/TimFoerster/octobercms-async-queue'
