@@ -1,2 +1,4 @@
 1.0.0:
     - Initialize plugin.
+1.0.1:
+    - "Bumping barryvdh/laravel-async-queue to the latest 0.7.* version."
